@@ -1,0 +1,3 @@
+django
+datetime
+django_ckeditor==5.9.0
